@@ -13,3 +13,21 @@ Todo:
 ```
 - Read Chapter 1
 - [Module pdb](https://docs.python.org/2/library/pdb.html)
+
+
+## DAY 2:
+- openpyxl
+- read/write to excel file
+
+
+## DAY 3:
+- Working with openpyxl to write/read file
+- Python logging
+- Json parsing
+- Digikey API
+```
+Todo:
+```
+- Json
+- Logging
+- Pull data from digikey and write to excel
