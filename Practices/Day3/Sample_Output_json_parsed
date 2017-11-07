@@ -1,0 +1,803 @@
+{
+    "FilterValues": [],
+    "LimitedCategories": [
+        {
+            "Category": "Capacitors",
+            "Families": [
+                {
+                    "Id": "11",
+                    "Name": "Ceramic Capacitors",
+                    "PartCount": 3
+                }
+            ],
+            "Id": "2"
+        }
+    ],
+    "LimitedFilterValues": [
+        {
+            "Parameter": "Manufacturer",
+            "Pid": -1,
+            "Values": [
+                {
+                    "Value": "Taiyo Yuden",
+                    "Vid": "587"
+                }
+            ]
+        },
+        {
+            "Parameter": "Packaging",
+            "Pid": 7,
+            "Values": [
+                {
+                    "Value": "Cut Tape (CT)",
+                    "Vid": "2"
+                },
+                {
+                    "Value": "Digi-Reel\u00ae",
+                    "Vid": "243"
+                },
+                {
+                    "Value": "Tape & Reel (TR)",
+                    "Vid": "1"
+                }
+            ]
+        },
+        {
+            "Parameter": "Series",
+            "Pid": -5,
+            "Values": [
+                {
+                    "Value": "M",
+                    "Vid": "56"
+                }
+            ]
+        },
+        {
+            "Parameter": "Part Status",
+            "Pid": 1989,
+            "Values": [
+                {
+                    "Value": "Active",
+                    "Vid": "0"
+                }
+            ]
+        },
+        {
+            "Parameter": "Capacitance",
+            "Pid": 2049,
+            "Values": [
+                {
+                    "Value": "0.1\u00b5F",
+                    "Vid": "u0.1\u00b5F"
+                }
+            ]
+        },
+        {
+            "Parameter": "Tolerance",
+            "Pid": 3,
+            "Values": [
+                {
+                    "Value": "\u00b110%",
+                    "Vid": "3"
+                }
+            ]
+        },
+        {
+            "Parameter": "Voltage - Rated",
+            "Pid": 14,
+            "Values": [
+                {
+                    "Value": "25V",
+                    "Vid": "20"
+                }
+            ]
+        },
+        {
+            "Parameter": "Temperature Coefficient",
+            "Pid": 17,
+            "Values": [
+                {
+                    "Value": "X5R",
+                    "Vid": "19"
+                }
+            ]
+        },
+        {
+            "Parameter": "Operating Temperature",
+            "Pid": 252,
+            "Values": [
+                {
+                    "Value": "-55\u00b0C ~ 85\u00b0C",
+                    "Vid": "39"
+                }
+            ]
+        },
+        {
+            "Parameter": "Features",
+            "Pid": 5,
+            "Values": [
+                {
+                    "Value": "-",
+                    "Vid": "1814"
+                }
+            ]
+        },
+        {
+            "Parameter": "Ratings",
+            "Pid": 707,
+            "Values": [
+                {
+                    "Value": "-",
+                    "Vid": "34"
+                }
+            ]
+        },
+        {
+            "Parameter": "Applications",
+            "Pid": 405,
+            "Values": [
+                {
+                    "Value": "General Purpose",
+                    "Vid": "19"
+                }
+            ]
+        },
+        {
+            "Parameter": "Mounting Type",
+            "Pid": 69,
+            "Values": [
+                {
+                    "Value": "Surface Mount, MLCC",
+                    "Vid": "453"
+                }
+            ]
+        },
+        {
+            "Parameter": "Package / Case",
+            "Pid": 16,
+            "Values": [
+                {
+                    "Value": "0603 (1608 Metric)",
+                    "Vid": "5"
+                }
+            ]
+        },
+        {
+            "Parameter": "Size / Dimension",
+            "Pid": 46,
+            "Values": [
+                {
+                    "Value": "0.063\" L x 0.032\" W (1.60mm x 0.80mm)",
+                    "Vid": "39461"
+                }
+            ]
+        },
+        {
+            "Parameter": "Height - Seated (Max)",
+            "Pid": 1500,
+            "Values": [
+                {
+                    "Value": "-",
+                    "Vid": "250"
+                }
+            ]
+        },
+        {
+            "Parameter": "Thickness (Max)",
+            "Pid": 1501,
+            "Values": [
+                {
+                    "Value": "0.035\" (0.90mm)",
+                    "Vid": "18"
+                }
+            ]
+        },
+        {
+            "Parameter": "Lead Spacing",
+            "Pid": 508,
+            "Values": [
+                {
+                    "Value": "-",
+                    "Vid": "21"
+                }
+            ]
+        },
+        {
+            "Parameter": "Lead Style",
+            "Pid": 4,
+            "Values": [
+                {
+                    "Value": "-",
+                    "Vid": "23"
+                }
+            ]
+        }
+    ],
+    "Parts": [
+        {
+            "Category": {
+                "Id": "2",
+                "Text": "Capacitors"
+            },
+            "ChipOutpostPart": false,
+            "DigiKeyPartNumber": "587-1245-6-ND",
+            "Family": {
+                "Id": "11",
+                "Text": "Ceramic Capacitors"
+            },
+            "LeadStatus": "Lead Free",
+            "ManfacturerPublicQuantity": 0,
+            "ManufacturerLeadWeeks": "19 weeks",
+            "ManufacturerName": {
+                "Id": "587",
+                "Text": "Taiyo Yuden"
+            },
+            "ManufacturerPageUrl": "/en/supplier-centers/t/taiyo-yuden",
+            "ManufacturerPartNumber": "TMK107BJ104KA-T",
+            "MinimumOrderQuantity": 1,
+            "NonStock": false,
+            "Packaging": {
+                "Parameter": "Packaging",
+                "ParameterId": 7,
+                "Value": "Digi-Reel\u00ae",
+                "ValueId": "243"
+            },
+            "Parameters": [
+                {
+                    "Parameter": "Packaging",
+                    "ParameterId": 7,
+                    "Value": "Digi-Reel\u00ae",
+                    "ValueId": "243"
+                },
+                {
+                    "Parameter": "Part Status",
+                    "ParameterId": 1989,
+                    "Value": "Active",
+                    "ValueId": "0"
+                },
+                {
+                    "Parameter": "Capacitance",
+                    "ParameterId": 2049,
+                    "Value": "0.1\u00b5F",
+                    "ValueId": "u0.1\u00b5F"
+                },
+                {
+                    "Parameter": "Tolerance",
+                    "ParameterId": 3,
+                    "Value": "\u00b110%",
+                    "ValueId": "3"
+                },
+                {
+                    "Parameter": "Voltage - Rated",
+                    "ParameterId": 14,
+                    "Value": "25V",
+                    "ValueId": "20"
+                },
+                {
+                    "Parameter": "Temperature Coefficient",
+                    "ParameterId": 17,
+                    "Value": "X5R",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Operating Temperature",
+                    "ParameterId": 252,
+                    "Value": "-55\u00b0C ~ 85\u00b0C",
+                    "ValueId": "39"
+                },
+                {
+                    "Parameter": "Features",
+                    "ParameterId": 5,
+                    "Value": "-",
+                    "ValueId": "1814"
+                },
+                {
+                    "Parameter": "Ratings",
+                    "ParameterId": 707,
+                    "Value": "-",
+                    "ValueId": "34"
+                },
+                {
+                    "Parameter": "Applications",
+                    "ParameterId": 405,
+                    "Value": "General Purpose",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Mounting Type",
+                    "ParameterId": 69,
+                    "Value": "Surface Mount, MLCC",
+                    "ValueId": "453"
+                },
+                {
+                    "Parameter": "Package / Case",
+                    "ParameterId": 16,
+                    "Value": "0603 (1608 Metric)",
+                    "ValueId": "5"
+                },
+                {
+                    "Parameter": "Size / Dimension",
+                    "ParameterId": 46,
+                    "Value": "0.063\" L x 0.032\" W (1.60mm x 0.80mm)",
+                    "ValueId": "39461"
+                },
+                {
+                    "Parameter": "Height - Seated (Max)",
+                    "ParameterId": 1500,
+                    "Value": "-",
+                    "ValueId": "250"
+                },
+                {
+                    "Parameter": "Thickness (Max)",
+                    "ParameterId": 1501,
+                    "Value": "0.035\" (0.90mm)",
+                    "ValueId": "18"
+                },
+                {
+                    "Parameter": "Lead Spacing",
+                    "ParameterId": 508,
+                    "Value": "-",
+                    "ValueId": "21"
+                },
+                {
+                    "Parameter": "Lead Style",
+                    "ParameterId": 4,
+                    "Value": "-",
+                    "ValueId": "23"
+                }
+            ],
+            "PartId": 1818068,
+            "PartStatus": "Active",
+            "PartUrl": "/product-detail/en/taiyo-yuden/TMK107BJ104KA-T/587-1245-6-ND/1818068",
+            "PrimaryDatasheet": "http://www.yuden.co.jp/productdata/catalog/en/mlcc01_e.pdf",
+            "PrimaryPhoto": "http://media.digikey.com/Renders/Taiyo%20Yuden%20Renders/0603%20(MK107).jpg",
+            "PrimaryVideo": "",
+            "ProductDescription": "CAP CER 0.1UF 25V X5R 0603",
+            "QuantityOnHand": 427505,
+            "RohsInfo": "RoHS Compliant",
+            "RohsSubs": [],
+            "Series": {
+                "Parameter": "Series",
+                "ParameterId": -5,
+                "Value": "M",
+                "ValueId": "56"
+            },
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "TotalPrice": 0.1,
+                    "UnitPrice": 0.1
+                },
+                {
+                    "BreakQuantity": 10,
+                    "TotalPrice": 0.42,
+                    "UnitPrice": 0.042
+                },
+                {
+                    "BreakQuantity": 100,
+                    "TotalPrice": 1.86,
+                    "UnitPrice": 0.0186
+                },
+                {
+                    "BreakQuantity": 500,
+                    "TotalPrice": 6.64,
+                    "UnitPrice": 0.01328
+                },
+                {
+                    "BreakQuantity": 1000,
+                    "TotalPrice": 10.44,
+                    "UnitPrice": 0.01044
+                }
+            ],
+            "SuggestedSubs": [
+                {
+                    "Description": "CAP CER 0.1UF 50V X5R 0603",
+                    "DigiKeyPartNumber": "478-6206-2-ND",
+                    "ManfacturerPublicQuantity": 0,
+                    "ManufacturerName": null,
+                    "ManufacturerPartNumber": "06035D104KAT2A",
+                    "MinimumOrderQuantity": 4000,
+                    "NonStock": false,
+                    "Packaging": {
+                        "Parameter": "Packaging",
+                        "ParameterId": 7,
+                        "Value": "Tape & Reel (TR)",
+                        "ValueId": "1"
+                    },
+                    "PartId": 1600245,
+                    "ProductDescription": null,
+                    "QuantityOnHand": 48000,
+                    "UnitPrice": 0.044
+                }
+            ],
+            "UnitPrice": 0.042
+        },
+        {
+            "Category": {
+                "Id": "2",
+                "Text": "Capacitors"
+            },
+            "ChipOutpostPart": false,
+            "DigiKeyPartNumber": "587-1245-1-ND",
+            "Family": {
+                "Id": "11",
+                "Text": "Ceramic Capacitors"
+            },
+            "LeadStatus": "Lead Free",
+            "ManfacturerPublicQuantity": 0,
+            "ManufacturerLeadWeeks": "19 weeks",
+            "ManufacturerName": {
+                "Id": "587",
+                "Text": "Taiyo Yuden"
+            },
+            "ManufacturerPageUrl": "/en/supplier-centers/t/taiyo-yuden",
+            "ManufacturerPartNumber": "TMK107BJ104KA-T",
+            "MinimumOrderQuantity": 1,
+            "NonStock": false,
+            "Packaging": {
+                "Parameter": "Packaging",
+                "ParameterId": 7,
+                "Value": "Cut Tape (CT)",
+                "ValueId": "2"
+            },
+            "Parameters": [
+                {
+                    "Parameter": "Packaging",
+                    "ParameterId": 7,
+                    "Value": "Cut Tape (CT)",
+                    "ValueId": "2"
+                },
+                {
+                    "Parameter": "Part Status",
+                    "ParameterId": 1989,
+                    "Value": "Active",
+                    "ValueId": "0"
+                },
+                {
+                    "Parameter": "Capacitance",
+                    "ParameterId": 2049,
+                    "Value": "0.1\u00b5F",
+                    "ValueId": "u0.1\u00b5F"
+                },
+                {
+                    "Parameter": "Tolerance",
+                    "ParameterId": 3,
+                    "Value": "\u00b110%",
+                    "ValueId": "3"
+                },
+                {
+                    "Parameter": "Voltage - Rated",
+                    "ParameterId": 14,
+                    "Value": "25V",
+                    "ValueId": "20"
+                },
+                {
+                    "Parameter": "Temperature Coefficient",
+                    "ParameterId": 17,
+                    "Value": "X5R",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Operating Temperature",
+                    "ParameterId": 252,
+                    "Value": "-55\u00b0C ~ 85\u00b0C",
+                    "ValueId": "39"
+                },
+                {
+                    "Parameter": "Features",
+                    "ParameterId": 5,
+                    "Value": "-",
+                    "ValueId": "1814"
+                },
+                {
+                    "Parameter": "Ratings",
+                    "ParameterId": 707,
+                    "Value": "-",
+                    "ValueId": "34"
+                },
+                {
+                    "Parameter": "Applications",
+                    "ParameterId": 405,
+                    "Value": "General Purpose",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Mounting Type",
+                    "ParameterId": 69,
+                    "Value": "Surface Mount, MLCC",
+                    "ValueId": "453"
+                },
+                {
+                    "Parameter": "Package / Case",
+                    "ParameterId": 16,
+                    "Value": "0603 (1608 Metric)",
+                    "ValueId": "5"
+                },
+                {
+                    "Parameter": "Size / Dimension",
+                    "ParameterId": 46,
+                    "Value": "0.063\" L x 0.032\" W (1.60mm x 0.80mm)",
+                    "ValueId": "39461"
+                },
+                {
+                    "Parameter": "Height - Seated (Max)",
+                    "ParameterId": 1500,
+                    "Value": "-",
+                    "ValueId": "250"
+                },
+                {
+                    "Parameter": "Thickness (Max)",
+                    "ParameterId": 1501,
+                    "Value": "0.035\" (0.90mm)",
+                    "ValueId": "18"
+                },
+                {
+                    "Parameter": "Lead Spacing",
+                    "ParameterId": 508,
+                    "Value": "-",
+                    "ValueId": "21"
+                },
+                {
+                    "Parameter": "Lead Style",
+                    "ParameterId": 4,
+                    "Value": "-",
+                    "ValueId": "23"
+                }
+            ],
+            "PartId": 931022,
+            "PartStatus": "Active",
+            "PartUrl": "/product-detail/en/taiyo-yuden/TMK107BJ104KA-T/587-1245-1-ND/931022",
+            "PrimaryDatasheet": "http://www.yuden.co.jp/productdata/catalog/en/mlcc01_e.pdf",
+            "PrimaryPhoto": "http://media.digikey.com/Renders/Taiyo%20Yuden%20Renders/0603%20(MK107).jpg",
+            "PrimaryVideo": "",
+            "ProductDescription": "CAP CER 0.1UF 25V X5R 0603",
+            "QuantityOnHand": 427505,
+            "RohsInfo": "RoHS Compliant",
+            "RohsSubs": [],
+            "Series": {
+                "Parameter": "Series",
+                "ParameterId": -5,
+                "Value": "M",
+                "ValueId": "56"
+            },
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 1,
+                    "TotalPrice": 0.1,
+                    "UnitPrice": 0.1
+                },
+                {
+                    "BreakQuantity": 10,
+                    "TotalPrice": 0.4,
+                    "UnitPrice": 0.04
+                },
+                {
+                    "BreakQuantity": 100,
+                    "TotalPrice": 1.78,
+                    "UnitPrice": 0.0178
+                },
+                {
+                    "BreakQuantity": 500,
+                    "TotalPrice": 6.34,
+                    "UnitPrice": 0.01268
+                },
+                {
+                    "BreakQuantity": 1000,
+                    "TotalPrice": 9.96,
+                    "UnitPrice": 0.00996
+                }
+            ],
+            "SuggestedSubs": [],
+            "UnitPrice": 0.04
+        },
+        {
+            "Category": {
+                "Id": "2",
+                "Text": "Capacitors"
+            },
+            "ChipOutpostPart": false,
+            "DigiKeyPartNumber": "587-1245-2-ND",
+            "Family": {
+                "Id": "11",
+                "Text": "Ceramic Capacitors"
+            },
+            "LeadStatus": "Lead Free",
+            "ManfacturerPublicQuantity": 0,
+            "ManufacturerLeadWeeks": "19 weeks",
+            "ManufacturerName": {
+                "Id": "587",
+                "Text": "Taiyo Yuden"
+            },
+            "ManufacturerPageUrl": "/en/supplier-centers/t/taiyo-yuden",
+            "ManufacturerPartNumber": "TMK107BJ104KA-T",
+            "MinimumOrderQuantity": 4000,
+            "NonStock": false,
+            "Packaging": {
+                "Parameter": "Packaging",
+                "ParameterId": 7,
+                "Value": "Tape & Reel (TR)",
+                "ValueId": "1"
+            },
+            "Parameters": [
+                {
+                    "Parameter": "Packaging",
+                    "ParameterId": 7,
+                    "Value": "Tape & Reel (TR)",
+                    "ValueId": "1"
+                },
+                {
+                    "Parameter": "Part Status",
+                    "ParameterId": 1989,
+                    "Value": "Active",
+                    "ValueId": "0"
+                },
+                {
+                    "Parameter": "Capacitance",
+                    "ParameterId": 2049,
+                    "Value": "0.1\u00b5F",
+                    "ValueId": "u0.1\u00b5F"
+                },
+                {
+                    "Parameter": "Tolerance",
+                    "ParameterId": 3,
+                    "Value": "\u00b110%",
+                    "ValueId": "3"
+                },
+                {
+                    "Parameter": "Voltage - Rated",
+                    "ParameterId": 14,
+                    "Value": "25V",
+                    "ValueId": "20"
+                },
+                {
+                    "Parameter": "Temperature Coefficient",
+                    "ParameterId": 17,
+                    "Value": "X5R",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Operating Temperature",
+                    "ParameterId": 252,
+                    "Value": "-55\u00b0C ~ 85\u00b0C",
+                    "ValueId": "39"
+                },
+                {
+                    "Parameter": "Features",
+                    "ParameterId": 5,
+                    "Value": "-",
+                    "ValueId": "1814"
+                },
+                {
+                    "Parameter": "Ratings",
+                    "ParameterId": 707,
+                    "Value": "-",
+                    "ValueId": "34"
+                },
+                {
+                    "Parameter": "Applications",
+                    "ParameterId": 405,
+                    "Value": "General Purpose",
+                    "ValueId": "19"
+                },
+                {
+                    "Parameter": "Mounting Type",
+                    "ParameterId": 69,
+                    "Value": "Surface Mount, MLCC",
+                    "ValueId": "453"
+                },
+                {
+                    "Parameter": "Package / Case",
+                    "ParameterId": 16,
+                    "Value": "0603 (1608 Metric)",
+                    "ValueId": "5"
+                },
+                {
+                    "Parameter": "Size / Dimension",
+                    "ParameterId": 46,
+                    "Value": "0.063\" L x 0.032\" W (1.60mm x 0.80mm)",
+                    "ValueId": "39461"
+                },
+                {
+                    "Parameter": "Height - Seated (Max)",
+                    "ParameterId": 1500,
+                    "Value": "-",
+                    "ValueId": "250"
+                },
+                {
+                    "Parameter": "Thickness (Max)",
+                    "ParameterId": 1501,
+                    "Value": "0.035\" (0.90mm)",
+                    "ValueId": "18"
+                },
+                {
+                    "Parameter": "Lead Spacing",
+                    "ParameterId": 508,
+                    "Value": "-",
+                    "ValueId": "21"
+                },
+                {
+                    "Parameter": "Lead Style",
+                    "ParameterId": 4,
+                    "Value": "-",
+                    "ValueId": "23"
+                }
+            ],
+            "PartId": 930597,
+            "PartStatus": "Active",
+            "PartUrl": "/product-detail/en/taiyo-yuden/TMK107BJ104KA-T/587-1245-2-ND/930597",
+            "PrimaryDatasheet": "http://www.yuden.co.jp/productdata/catalog/en/mlcc01_e.pdf",
+            "PrimaryPhoto": "http://media.digikey.com/Renders/Taiyo%20Yuden%20Renders/0603%20(MK107).jpg",
+            "PrimaryVideo": "",
+            "ProductDescription": "CAP CER 0.1UF 25V X5R 0603",
+            "QuantityOnHand": 424000,
+            "RohsInfo": "RoHS Compliant",
+            "RohsSubs": [],
+            "Series": {
+                "Parameter": "Series",
+                "ParameterId": -5,
+                "Value": "M",
+                "ValueId": "56"
+            },
+            "StandardPricing": [
+                {
+                    "BreakQuantity": 4000,
+                    "TotalPrice": 29,
+                    "UnitPrice": 0.00725
+                },
+                {
+                    "BreakQuantity": 8000,
+                    "TotalPrice": 52.96,
+                    "UnitPrice": 0.00662
+                },
+                {
+                    "BreakQuantity": 12000,
+                    "TotalPrice": 75.6,
+                    "UnitPrice": 0.0063
+                },
+                {
+                    "BreakQuantity": 28000,
+                    "TotalPrice": 167.72,
+                    "UnitPrice": 0.00599
+                },
+                {
+                    "BreakQuantity": 100000,
+                    "TotalPrice": 435,
+                    "UnitPrice": 0.00435
+                }
+            ],
+            "SuggestedSubs": [],
+            "UnitPrice": 0.00725
+        }
+    ],
+    "Results": 3,
+    "Taxonomy": {
+        "Children": [
+            {
+                "Children": [
+                    {
+                        "Children": [],
+                        "NewPartCount": 0,
+                        "Parameter": "Categories",
+                        "ParameterId": -8,
+                        "PartCount": 3,
+                        "Value": "Ceramic Capacitors",
+                        "ValueId": "60"
+                    }
+                ],
+                "NewPartCount": 0,
+                "Parameter": "Categories",
+                "ParameterId": -8,
+                "PartCount": 3,
+                "Value": "Capacitors",
+                "ValueId": "3"
+            }
+        ],
+        "NewPartCount": 0,
+        "Parameter": "Categories",
+        "ParameterId": -8,
+        "PartCount": 3,
+        "Value": "Out of Bounds",
+        "ValueId": "0"
+    }
+}
+[Finished in 0.1s]
