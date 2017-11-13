@@ -1,11 +1,10 @@
 import json
 import urllib
-import urllib.parse, urllib.request
 
 url = "http://octopart.com/api/v3/parts/search"
 
 # NOTE: Use your API key here (https://octopart.com/api/register)
-url += "?apikey=1912e391" 
+url += "?apikey=REPLACE_ME" 
 
 args = [
    ('q', 'solid state relay'),
@@ -13,19 +12,17 @@ args = [
    ('limit', 10)
    ]
 
-url += '&' + urllib.parse.urlencode(args)
+url += '&' + urllib.urlencode(args)
 
-data = urllib.request.urlopen(url).read()
+data = urllib.urlopen(url).read()
 search_response = json.loads(data)
 
-
-print(search_response)
 # print number of hits
-print(search_response['hits'])
+print search_response['hits']
 
 # print results
 for result in search_response['results']:
    part = result['item']
 
    # print matched part
-   print("%s - %s" % (part['brand']['name'], part['mpn']))
+   print "%s - %s" % (part['brand']['name'], part['mpn'])
